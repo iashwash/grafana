@@ -56,7 +56,7 @@ For any core configuration resources, the base config resource is: `grafana_conf
 * [grafana_dashboard](https://github.com/sous-chefs/grafana/tree/master/documentation/grafana_dashboard.md)
 * [grafana_datasource](https://github.com/sous-chefs/grafana/tree/master/documentation/grafana_datasource.md)
 * [grafana_install](https://github.com/sous-chefs/grafana/tree/master/documentation/grafana_install.md)
-* [grafana_orginization](https://github.com/sous-chefs/grafana/tree/master/documentation/grafana_orginization.md)
+* [grafana_organization](https://github.com/sous-chefs/grafana/tree/master/documentation/grafana_organization.md)
 * [grafana_plugin](https://github.com/sous-chefs/grafana/tree/master/documentation/grafana_plugin.md)
 * [grafana_user](https://github.com/sous-chefs/grafana/tree/master/documentation/grafana_user.md)
 
